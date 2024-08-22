@@ -1,0 +1,155 @@
+*{
+    background-color: black;
+}
+
+.container-head{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 0px 50px;
+}
+
+.name{
+    font-size: 40px;
+    color: white;
+    padding: none;
+    margin: 1px;
+    border: 1px solid white;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    font-family: "Caveat", cursive;
+    font-weight:70;
+}
+
+.titles{
+    font-size: 10px;
+    color: white;
+    display: flex;
+    gap: 40px;
+
+}
+
+.container-body{
+    color: white;
+    display: flex;
+    
+}
+
+.self-intro{
+    width: 50%;
+    font-size: 17px;
+    margin: 150px 0px 0px 51px;
+}
+
+.button-CV{
+    color: white;
+}
+
+.img{
+   width: 400px ;
+    float: right;
+    margin: 0px 0px 100px 150px;
+}
+
+.education{
+    color: white;
+    display: flex;
+    margin: 100px 0px 0px 0px;
+}
+
+.edu-gif{
+    width: 400px ;
+    float: right;
+    margin: 0px 0px 100px 150px;
+}
+
+.edu-container{
+    margin: 0px 0px 0px 200px;
+}
+
+.edu-name{
+    font-size: 50px;
+}
+    
+.edu-school{
+    font-size: 25px;
+}
+
+.edu-school-1{
+    font-size: 15px;
+}
+.edu-school-2{
+    font-size: 15px;
+}
+.edu-degree{
+    font-size: 26px;
+}
+
+.edu-degree-1{
+    font-size: 15px;
+}
+
+.projects{
+    color: white;
+    margin: 160px 0px 100px 100px;
+    display: flex;
+    gap: 100px;
+}
+
+.pro-name{
+    font-size: 50px;
+    margin: 110px 0px 0px 0px;
+}
+
+.pro-name-1{
+    font-size: 20px;
+}
+
+.pro-name-2{
+    font-size: 20px;
+}
+
+.pro-name-3{
+    font-size: 20px;
+}
+.pro-img{
+    width: 400px;
+    margin: 0px 100px 100px 200px;
+}
+
+.container-skills{
+    color: white;
+    margin: 250px 0px 250px 0px;
+    display: flex;
+    gap: 200px;
+}
+
+.skills-img{
+    width: 750px;
+    margin: 1px 1px 0px 50px;
+}
+
+.skills{
+      font-size: 50px;
+      margin: 100px 0px 0px 1px;
+}
+
+.skills-title{
+    font-size: 20px;
+}
+
+.contact-container{
+    color: white;
+    margin: 0px 0px 200px 0px;
+}
+
+.contact-name{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+
+.contact-title{
+    font-size: 20px;
+    text-align: center;
+}
